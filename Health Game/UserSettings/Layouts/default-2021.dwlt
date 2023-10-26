@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 47
+  controlID: 87
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 48
+  controlID: 88
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 89
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,23 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Packages/com.unity.textmeshpro
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Packages/com.unity.textmeshpro
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\dschl\Documents\GitHub\ProjektkursNW-Interaktive-Bildungsmaterialien\Health
-    Game
+  m_LastProjectPath: C:\Users\dschl\Documents\GitHub\-Health-Games-\Health Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 90570000
-    m_LastClickedID: 22416
-    m_ExpandedIDs: 00000000
+    m_SelectedIDs: ae570000
+    m_LastClickedID: 22446
+    m_ExpandedIDs: 000000009a570000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -492,7 +491,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 20580000
       m_LastClickedID: 0
       m_ExpandedIDs: 32fbffff
       m_RenameOverlay:
@@ -777,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 1, z: -10}
+    m_Target: {x: 6.828643, y: -1.0523093, z: -10.927525}
     speed: 2
-    m_Value: {x: 0.00007125023, y: 0.9999979, z: -10.000056}
+    m_Value: {x: 6.828643, y: -1.0523093, z: -10.927525}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -802,7 +801,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -818,7 +817,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -826,13 +825,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.09925817, y: -0.0968595, z: 0.009723676, w: 0.990299}
+    m_Target: {x: 0.17055851, y: 0.14866258, z: -0.026025001, w: 0.9737315}
     speed: 2
-    m_Value: {x: 0.109665506, y: -0.09526717, z: 0.010575592, w: 0.98933613}
+    m_Value: {x: 0.1720171, y: 0.1486218, z: -0.026247695, w: 0.9734643}
   m_Size:
-    m_Target: 12.124355
+    m_Target: 7.2560735
     speed: 2
-    m_Value: 12.124355
+    m_Value: 7.2560735
   m_Ortho:
     m_Target: 0
     speed: 2
